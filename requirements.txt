@@ -7,5 +7,4 @@ pyOpenSSL==0.13.1
 pyparsing==2.0.1
 python-dateutil==1.5
 virtualenv==15.1.0
-xattr==0.6.4
 zope.interface==4.1.1
